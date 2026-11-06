@@ -1,0 +1,4 @@
+visite dati/
+__pycache__/
+*.pyc
+~$*

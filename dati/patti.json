@@ -1,0 +1,354 @@
+{
+ "mese": "2026-11",
+ "nota": "Patto CBE di novembre (20%, on/off), deciso il 5/11. 4 negozi in focus per CBE (solo store), 2 su fisso o mobile e 2 su energia. Obiettivo = target di novembre del negozio sulla pista, in pezzi lordi (fisso x1,10, mobile x1,17, energia com'e'), scelto solo se e' sopra quanto il negozio ha fatto a ottobre; altrimenti il negozio si misura su un'altra pista, o se nessuna lo e' viene sostituito con un altro store del CBE. Raggiunto se almeno 3 su 4 arrivano all'obiettivo.",
+ "cbe": {
+  "ANDREA CRIMI": {
+   "tipo": "focus",
+   "negozi": [
+    {
+     "cdc": "0019",
+     "loc": "VENARIA REALE",
+     "pista": "e",
+     "obiettivo": 39
+    },
+    {
+     "cdc": "0187",
+     "loc": "PIEVE FISSIRAGA",
+     "pista": "e",
+     "obiettivo": 27
+    },
+    {
+     "cdc": "0159",
+     "loc": "MONCALIERI",
+     "pista": "m",
+     "obiettivo": 12
+    },
+    {
+     "cdc": "0020",
+     "loc": "CREMA",
+     "pista": "m",
+     "obiettivo": 10
+    }
+   ]
+  },
+  "ANDREA NOVO": {
+   "tipo": "focus",
+   "negozi": [
+    {
+     "cdc": "0193",
+     "loc": "TRIESTE",
+     "pista": "m",
+     "obiettivo": 16
+    },
+    {
+     "cdc": "0088",
+     "loc": "VENEZIA",
+     "pista": "m",
+     "obiettivo": 16
+    },
+    {
+     "cdc": "0148",
+     "loc": "PIOVE DI SACCO",
+     "pista": "e",
+     "obiettivo": 24
+    },
+    {
+     "cdc": "0172",
+     "loc": "PORTOGRUARO",
+     "pista": "e",
+     "obiettivo": 27
+    }
+   ]
+  },
+  "EMANUELE D'ANTONIO": {
+   "tipo": "focus",
+   "negozi": [
+    {
+     "cdc": "0144",
+     "loc": "MORTARA",
+     "pista": "e",
+     "obiettivo": 40
+    },
+    {
+     "cdc": "0091",
+     "loc": "ARESE",
+     "pista": "f",
+     "obiettivo": 20
+    },
+    {
+     "cdc": "0059",
+     "loc": "NOVARA",
+     "pista": "e",
+     "obiettivo": 68
+    },
+    {
+     "cdc": "0190",
+     "loc": "SOLBIATE OLONA",
+     "pista": "m",
+     "obiettivo": 16
+    }
+   ]
+  },
+  "GIANLUCA SILENZI": {
+   "tipo": "focus",
+   "negozi": [
+    {
+     "cdc": "0174",
+     "loc": "SENIGALLIA",
+     "pista": "e",
+     "obiettivo": 24
+    },
+    {
+     "cdc": "0196",
+     "loc": "CITTA' SANT'ANGELO",
+     "pista": "m",
+     "obiettivo": 16
+    },
+    {
+     "cdc": "0047",
+     "loc": "TERAMO",
+     "pista": "m",
+     "obiettivo": 16
+    },
+    {
+     "cdc": "0072",
+     "loc": "FERMO",
+     "pista": "e",
+     "obiettivo": 26
+    }
+   ]
+  },
+  "MARCO RAPISARDA": {
+   "tipo": "focus",
+   "negozi": [
+    {
+     "cdc": "0171",
+     "loc": "CAMPI BISENZIO",
+     "pista": "m",
+     "obiettivo": 20
+    },
+    {
+     "cdc": "0324",
+     "loc": "FIRENZE - CALZAIUOLI",
+     "pista": "m",
+     "obiettivo": 25
+    },
+    {
+     "cdc": "0219",
+     "loc": "LATINA",
+     "pista": "e",
+     "obiettivo": 26
+    },
+    {
+     "cdc": "0223",
+     "loc": "FIRENZE - STAZIONE",
+     "pista": "e",
+     "obiettivo": 28
+    }
+   ]
+  },
+  "MARTINA FRAU": {
+   "tipo": "focus",
+   "negozi": [
+    {
+     "cdc": "0246",
+     "loc": "SESTU",
+     "pista": "e",
+     "obiettivo": 26
+    },
+    {
+     "cdc": "0205",
+     "loc": "OLBIA",
+     "pista": "f",
+     "obiettivo": 6
+    },
+    {
+     "cdc": "0092",
+     "loc": "CAGLIARI - ELMAS",
+     "pista": "e",
+     "obiettivo": 24
+    },
+    {
+     "cdc": "0166",
+     "loc": "QUARTUCCIU",
+     "pista": "f",
+     "obiettivo": 8
+    }
+   ]
+  },
+  "MAURIZIO BIGI": {
+   "tipo": "focus",
+   "negozi": [
+    {
+     "cdc": "0214",
+     "loc": "MODENA",
+     "pista": "f",
+     "obiettivo": 14
+    },
+    {
+     "cdc": "0048",
+     "loc": "SAVIGNANO SUL RUBICONE",
+     "pista": "m",
+     "obiettivo": 12
+    },
+    {
+     "cdc": "0164",
+     "loc": "ERBUSCO",
+     "pista": "e",
+     "obiettivo": 30
+    },
+    {
+     "cdc": "0055",
+     "loc": "CURTATONE",
+     "pista": "e",
+     "obiettivo": 35
+    }
+   ]
+  },
+  "MAURO FIORINA": {
+   "tipo": "focus",
+   "negozi": [
+    {
+     "cdc": "0286",
+     "loc": "ROMA - COLA",
+     "pista": "e",
+     "obiettivo": 28
+    },
+    {
+     "cdc": "0204",
+     "loc": "ROMA - EUROMA",
+     "pista": "f",
+     "obiettivo": 11
+    },
+    {
+     "cdc": "0311",
+     "loc": "ROMA - LIEGI",
+     "pista": "e",
+     "obiettivo": 29
+    },
+    {
+     "cdc": "0332",
+     "loc": "ROMA - COLONNA",
+     "pista": "m",
+     "obiettivo": 26
+    }
+   ]
+  },
+  "ORIANA PALERMO": {
+   "tipo": "focus",
+   "negozi": [
+    {
+     "cdc": "0300",
+     "loc": "AGRIGENTO",
+     "pista": "e",
+     "obiettivo": 25
+    },
+    {
+     "cdc": "0232",
+     "loc": "MELILLI",
+     "pista": "e",
+     "obiettivo": 30
+    },
+    {
+     "cdc": "0121",
+     "loc": "CATANIA",
+     "pista": "m",
+     "obiettivo": 10
+    },
+    {
+     "cdc": "0018",
+     "loc": "GRAVINA DI CATANIA",
+     "pista": "m",
+     "obiettivo": 13
+    }
+   ]
+  },
+  "ROSALBA SOMMA": {
+   "tipo": "focus",
+   "negozi": [
+    {
+     "cdc": "0035",
+     "loc": "POMPEI - TORRE ANNUNZIATA",
+     "pista": "e",
+     "obiettivo": 39
+    },
+    {
+     "cdc": "0126",
+     "loc": "NAPOLI",
+     "pista": "m",
+     "obiettivo": 17
+    },
+    {
+     "cdc": "0103",
+     "loc": "PONTECAGNANO",
+     "pista": "e",
+     "obiettivo": 24
+    },
+    {
+     "cdc": "0119",
+     "loc": "MUGNANO DI NAPOLI",
+     "pista": "m",
+     "obiettivo": 15
+    }
+   ]
+  },
+  "STEFANO MASTINU": {
+   "tipo": "focus",
+   "negozi": [
+    {
+     "cdc": "0331",
+     "loc": "BELLINZAGO LOMBARDO",
+     "pista": "e",
+     "obiettivo": 34
+    },
+    {
+     "cdc": "0015",
+     "loc": "LIMBIATE",
+     "pista": "m",
+     "obiettivo": 19
+    },
+    {
+     "cdc": "0322",
+     "loc": "MILANO - STAZIONE",
+     "pista": "e",
+     "obiettivo": 16
+    },
+    {
+     "cdc": "0207",
+     "loc": "VIMODRONE",
+     "pista": "m",
+     "obiettivo": 10
+    }
+   ]
+  },
+  "VANESSA MASO": {
+   "tipo": "focus",
+   "negozi": [
+    {
+     "cdc": "0094",
+     "loc": "LONATO DEL GARDA",
+     "pista": "f",
+     "obiettivo": 10
+    },
+    {
+     "cdc": "0192",
+     "loc": "TRENTO",
+     "pista": "e",
+     "obiettivo": 30
+    },
+    {
+     "cdc": "0090",
+     "loc": "VERONA",
+     "pista": "m",
+     "obiettivo": 19
+    },
+    {
+     "cdc": "0053",
+     "loc": "COMACCHIO",
+     "pista": "e",
+     "obiettivo": 24
+    }
+   ]
+  }
+ }
+}
