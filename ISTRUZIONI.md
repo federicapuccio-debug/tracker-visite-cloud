@@ -40,3 +40,14 @@ report realtime, anche quando il PC di Federica è spento.
 
 Quando arrivano target e patti nuovi, sostituisci i tre file in `dati/` e aggiorna in
 `visite_dati.py` `FOGLIO_TARGET`, `MESE` e, se serve, `CAMBI_PORTAFOGLI`.
+
+Subito dopo, **riscrivi la scheda «Strategia» della pagina del tracker**: è testo scritto a mano
+dentro la pagina e resta del mese prima finché non lo cambi.
+1. `python strategia.py` stampa i numeri: target del mese per pista, fatto del mese prima dagli
+   stessi negozi, aumento in percentuale, pezzi mancanti e quanti negozi ne fanno metà.
+2. Leggi la pagina con lo strumento Artifact (`action: "read"`) e riscrivi solo la sezione
+   `data-panel="strategia"`: titolo «Strategia di <mese>», numeri nuovi, regole del patto del mese
+   (da `dati/patti.json`) e i venerdì del mese per le verifiche dell'85%. Non citare dati che non hai.
+3. Ripubblica la pagina sullo stesso link senza toccare il resto né le `capabilities`.
+
+Questo è l'unico caso in cui la pagina si ripubblica: nel giro serale non si tocca.
